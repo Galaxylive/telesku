@@ -16,3 +16,5 @@ the second hahah
 
 righ now i want to add some none since again to create new branch
 to learn how branch working
+
+این یکی را نوشتم دلم است بعد از این یکی دیگر را اجرا کنم که باری مرچ کردن شان است
