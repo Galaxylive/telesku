@@ -14,7 +14,11 @@ the second hahah
 دوباره ایدت کردم
 فقط برای فن
 
+
 righ now i want to add some none since again to create new branch
 to learn how branch working
 
 این یکی را نوشتم دلم است بعد از این یکی دیگر را اجرا کنم که باری مرچ کردن شان است
+
+final one for this one it means that first version 1 
+
